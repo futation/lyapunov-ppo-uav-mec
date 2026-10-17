@@ -1,0 +1,8 @@
+numpy>=1.26
+matplotlib>=3.8
+gymnasium>=0.29
+torch>=2.2
+pillow>=10.0
+
+# dev
+pytest>=8.0
